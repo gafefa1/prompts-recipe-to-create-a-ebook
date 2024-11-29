@@ -1,6 +1,5 @@
 # Projeto e-booK Gerado por I.A.s
 
-
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso "CAIXA - IA Generativa com Microsoft CopilotCAIXA" na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. 
@@ -24,7 +23,7 @@ Os prompts utilizados estão descriminados no arquivo do word: "Prompts usados p
 
 ## 📚 Materiais
 
-- Capa do e-book, Conteúdo do e-Book, Prompts usados para fazer o e-book anexados no Github.
+- Os aruivos: "Capa do e-book", "Conteúdo do e-Book" e "Prompts usados para fazer o e-book" anexados no Github.
 
 ## 🛠️ Instruções de execução
 
