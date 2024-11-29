@@ -24,10 +24,9 @@ Os prompts utilizados estão descriminados no arquivo do word: "Prompts usados p
 
 ## 📚 Materiais
 
-- Imagem utilizada em `assets`
-- e-book gerado em `output`
+- Capa do e-book, Conteúdo do e-Book, Prompts usados para fazer o e-book anexados no Github.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts localizados no arquivo do word: "Prompts usados para fazer o e-book" com as ferramentas de I.A.s sugeridas
+Utilize os prompts localizados no arquivo do word: "Prompts usados para fazer o e-book" com as ferramentas de I.A.s sugeridas.
 
