@@ -1,10 +1,9 @@
 # Projeto e-booK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso "CAIXA - IA Generativa com Microsoft CopilotCAIXA - IA Generativa com Microsoft Copilot" na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso "CAIXA - IA Generativa com Microsoft CopilotCAIXA" na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. 
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
@@ -16,20 +15,19 @@ seguem abaixo.
  
 ## 🧠 Prompts
 
-
 Os prompts utilizados estão descriminados no arquivo do word: "Prompts usados para fazer o e-book"
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Título e gerado via Copilot
+- Imagem, conteúdo e e-book gerados via Chatgpt
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagem utilizada em `assets`
+- e-book gerado em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts localizados no arquivo do word: "Prompts usados para fazer o e-book" comas as ferramentas de I.A.s sugeridas
 
