@@ -23,7 +23,7 @@ Os prompts utilizados estão descriminados no arquivo do word: "Prompts usados p
 
 ## 📚 Materiais
 
-- Os aruivos: "Capa do e-book", "Conteúdo do e-Book" e "Prompts usados para fazer o e-book" anexados no Github.
+- Os arquivos: "Capa do e-book", "Conteúdo do e-Book" e "Prompts usados para fazer o e-book" anexados no Github.
 
 ## 🛠️ Instruções de execução
 
