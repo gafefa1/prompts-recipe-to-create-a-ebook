@@ -23,8 +23,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Me crie um título para um e-book sobre o FINISA, quero que esse título seja prático e simples com as principais informações sobre o FINISA. liste 5 títulos com tais características.                                                         |
 | conteúdo | Faça uma e-book falando sobre FINISA, cujo título seja "FINISA Simplificado: Guia Prático". {REGRAS} •	Quero que o e-book seja prático e de fácil entendimento. •	Quero que o e-book seja voltado para pessoas que nunca tiverem contato com o termo FINISA. •	Quero que me retorne o conteúdo criado no formato PDF.|
-
-| :----: | -------------------------------------------------------------------------------------- |
 | Imagem | Me crie uma imagem para a capa de um e-book, cujo título seja: "FINISA Simplificado: Guia Prático" e as cores usadas sejam as cores da bandeira do brasil. 
 {REGRAS}
 •	A imagem seja na vertical e ocupe toda a área mostrada.
