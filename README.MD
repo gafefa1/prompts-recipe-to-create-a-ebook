@@ -11,9 +11,9 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
+- [Word](https://www.microsoft.com/en/microsoft-365/word)
+- [Copilot](https://www.microsoft.com/en/microsoft-365/copilot)
+ 
 ## 🧠 Prompts
 
 
