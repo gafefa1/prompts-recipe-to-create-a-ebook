@@ -29,5 +29,5 @@ Os prompts utilizados estão descriminados no arquivo do word: "Prompts usados p
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts localizados no arquivo do word: "Prompts usados para fazer o e-book" comas as ferramentas de I.A.s sugeridas
+Utilize os prompts localizados no arquivo do word: "Prompts usados para fazer o e-book" com as ferramentas de I.A.s sugeridas
 
