@@ -12,7 +12,7 @@ Projeto com o objetivo de gerar um e-book digital com as facilidades das ferrame
 - [Word](https://www.microsoft.com/en/microsoft-365/word)
 - [Copilot](https://www.microsoft.com/en/microsoft-365/copilot)
  
-## 🧠 Prompts
+## 🧠 Prompts    
 
 Os prompts utilizados estão descriminados no arquivo do word: "Prompts usados para fazer o e-book"
 
